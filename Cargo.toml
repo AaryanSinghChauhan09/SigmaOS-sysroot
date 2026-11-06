@@ -1,0 +1,6 @@
+[package]
+name = "sigmaos-sysroot"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS sysroot staging: assembles boot, userland, and config trees for imaging"
+license = "MIT"
